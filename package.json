@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/wilyyyy/serverless-functions#readme",
   "devDependencies": {
-    "node-fetch": "^3.2.10"
+    "node-fetch": "^2.6.1"
   }
 }
